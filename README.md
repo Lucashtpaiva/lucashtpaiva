@@ -16,6 +16,5 @@
 
 Fazendo faculdade de Sistemas de informações
 
-## Trabalhando com Wordpress(DIVI)
-
+Trabalhando com Wordpress(DIVI)
 <img align="center" alt="Wordpress" src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white"/>
